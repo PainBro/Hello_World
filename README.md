@@ -1,10 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This Hello World repository works as a baseline for this portfolio. Although it doesn't present much skill it will showcase my ability to create an extremely basic program and publish it on GitHub.
 
-{Provide a description of your software}
+This program is a very basic Hello World program which will simply display "Hello World!" to the user.
 
-{Describe your purpose for creating this software.}
+This program works as a baseline for future programs.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -12,9 +12,9 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+For this program VS Code was the IDE used.
 
-{Describe the programming language that you used}
+For this program Python was the language used.
 
 # Useful Websites
 
