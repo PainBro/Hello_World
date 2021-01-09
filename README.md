@@ -18,7 +18,6 @@ For this program Python was the language used.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [w3schools](https://www.w3schools.com/python/ref_func_print.asp)
+* [Visual Studio](https://code.visualstudio.com/docs/editor/github)
 
